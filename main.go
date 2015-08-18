@@ -1,3 +1,5 @@
+// Package gorm is a fantastic ORM library for Golang.
+// Aims to be developer friendly.
 package gorm
 
 import (
